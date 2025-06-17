@@ -4,4 +4,5 @@ This project is a modern, full-stack conversational AI chatbot system that lever
 
 ## Tools and Technologies Used in the Project
 
-![image](https://github.com/user-attachments/assets/4a742f36-9e04-4fab-8309-ad95b46bd2a6)
+![image](https://github.com/user-attachments/assets/4b587fea-d11e-4f7d-b6c6-090b37e5d032)
+
