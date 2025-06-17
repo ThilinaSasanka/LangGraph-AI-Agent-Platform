@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+langchain-groq = "*"
+langchain-openai = "*"
+langchain-community = "*"
+langgraph = "*"
+pydantic = "*"
+fastapi = "*"
+uvicorn = "*"
+requests = "*"
+langchain-tavily = "*"
+streamlit = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
